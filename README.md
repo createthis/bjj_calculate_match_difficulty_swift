@@ -3,6 +3,8 @@ This is just a coding exercise I performed for work. The license is probably enc
 I'm just providing it here because it was interesting to me. I produced the same code in several different languages.
 This is the Swift version. You need a Mac and probably xcode to compile this.
 
+The OCaml version is here: https://github.com/createthis/bjj_calculate_match_difficulty_ocaml
+
 # Boyd Belts
 The premise of this code is a concept I first heard from Rener Gracie in this video:
 https://youtu.be/FGk_urw1_hA?si=CAhp6mbehzguBWF2&t=103
