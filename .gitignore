@@ -1,0 +1,10 @@
+# vim
+*.swp
+**/*.swp
+
+# Swift byte code
+*.swo
+**/*.swo
+
+# Swift build stuff
+.build
